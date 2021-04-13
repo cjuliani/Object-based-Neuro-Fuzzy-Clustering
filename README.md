@@ -7,7 +7,9 @@
 - Extract information are processed and evaluated by fuzzy inference for similarity analysis.
 - Similarity results serve as basis for clustering.
 
-**<font color="red">Paper under review. Source code to be published soon.</font>**
+```html
+<font color="red"><b>Paper under review. Source code to be published soon.</b></font>
+```
 
 | ![sample](https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/sample.PNG) |
 |:--:|
