@@ -8,7 +8,7 @@
 - Similarity results serve as basis for clustering.
 
 ```html
-<font color="red"><b>Paper under review. Source code to be published soon.</b></font>
+<b>Paper under review. Source code to be published soon.</b>
 ```
 
 | ![sample](https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/sample.PNG) |
