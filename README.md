@@ -7,6 +7,8 @@
 - Extract information are processed and evaluated by fuzzy inference for similarity analysis.
 - Similarity results serve as basis for clustering.
 
+** Paper under review. Source code to be published soon.**
+
 | ![sample](https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/sample.PNG) |
 |:--:|
 | *Example of an RGB micro-photograph of mineral grains with corresponding annotations (A) (morphological erosion applied; background in white) and pixel predictions (P). Scanning-Electron-Microscope Backscatter images indicated three different minerals in this sample: grains marked by black squares are mostly apatite grains, yellow dots are monazites, and unmarked grains are zircons.*
