@@ -2,9 +2,9 @@
 ![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) <br>
 
 - Object clustering framework using latent variables of trained fully convolutional neural networks.
-- The framework categorizes objects from pictures in an unsupervised. 
-- Objects and latent features are extracted via image processing functions from OpenCV given the results from segmentation.
-- Extract information are processed and evaluated by fuzzy inference for similarity analysis.
+- The framework categorizes objects in an unsupervised manner for pattern discovery. 
+- Objects and latent features are extracted via image processing functions given the results from segmentation.
+- Extracted information are processed and evaluated by fuzzy inference for similarity analysis.
 - Similarity results serve as basis for clustering.
 
 `Paper under review. Code source to be published soon.`
