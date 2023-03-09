@@ -1,5 +1,5 @@
 # Object-based Neuro Fuzzy Clustering (ONFC)
-![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic) <br>
+![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg?style=plastic) <br>
 
 ### TLDR:
 - Object clustering framework using latent variables of trained fully convolutional neural networks.
