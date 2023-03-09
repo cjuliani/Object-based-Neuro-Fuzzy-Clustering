@@ -18,4 +18,4 @@
 
 | ![cluster centroids](https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/feature-centroids-plot.png) |
 |:--:|
-| *Examples of mean layer activations projected in 3D feature spaces (39 clusters displayed). Features are indicated per axis.*
+| *Examples of mean activations calculated per object and projected in 3D feature spaces (39 clusters displayed). Features are indicated per axis.*
