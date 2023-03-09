@@ -19,3 +19,8 @@
 | <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/feature-centroids-plot.png" width="50%"> |
 |:--:|
 | *Examples of mean activations calculated per object and projected in 3D feature spaces (39 clusters displayed). Features are indicated per axis.*
+
+| <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/birds.png" width="70%"> |
+|:--:|
+| *Testing of ONFC on Caltech-UCSD Birds-200-2011 dataset (https://www.vision.caltech.edu/datasets/cub_200_2011/).*
+
