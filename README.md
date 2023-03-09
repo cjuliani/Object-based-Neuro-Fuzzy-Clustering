@@ -4,7 +4,7 @@
 - Object clustering framework using latent variables of trained fully convolutional neural networks.
 - The framework categorizes objects in an unsupervised manner for pattern discovery.
 
-| <img src="[https://github.com/favicon.ico](https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/sample.PNG)" width="50%"> |
+| <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/sample.PNG" width="50%"> |
 |:--:|
 | *Example of an RGB micro-photograph of mineral grains with corresponding annotations (A) (morphological erosion applied; background in white) and pixel predictions (P). Scanning-Electron-Microscope Backscatter images indicated three different minerals in this sample: grains marked by black squares are mostly apatite grains, yellow dots are monazites, and unmarked grains are zircons.*
 
