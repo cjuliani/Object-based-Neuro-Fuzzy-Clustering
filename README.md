@@ -15,3 +15,7 @@
 | ![clusters](https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/clusters.PNG) |
 |:--:|
 | *Examples of clusters (up to 10 objects shown per row only) obtained from ONFC (a), and several of uncategorized grains (b). Opaque minerals tend to reflect more light.*
+
+| ![cluster centroids](https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/feature-centroids-plot.png) |
+|:--:|
+| *Examples of mean layer activations projected in 3D feature spaces (39 clusters displayed). Features are indicated per axis.*
