@@ -20,13 +20,13 @@ ONFC is an algorithm processing the latent characteristics of fully convolutiona
 
 | <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/clusters.PNG" width="85%"> |
 |:--:|
-| *Examples of clusters (up to 10 objects shown per row only) obtained from ONFC (a), and several of uncategorized grains (b). Opaque minerals tend to reflect more light.*
+| Examples of clusters (up to 10 objects shown per row only) obtained from ONFC (a), and several of uncategorized grains (b). Opaque minerals tend to reflect more light.
 
 | <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/feature-centroids-plot.png" width="50%"> |
 |:--:|
-| *Examples of mean activations calculated per object and projected in 3D feature spaces (39 clusters displayed). Features are indicated per axis.*
+| Examples of mean activations calculated per object and projected in 3D feature spaces (39 clusters displayed). Features are indicated per axis.
 
 | <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/birds.png" width="70%"> |
 |:--:|
-| *Testing of ONFC on Caltech-UCSD Birds-200-2011 dataset (https://www.vision.caltech.edu/datasets/cub_200_2011/).*
+| Testing of ONFC on Caltech-UCSD Birds-200-2011 dataset (https://www.vision.caltech.edu/datasets/cub_200_2011/).
 
