@@ -24,7 +24,7 @@ ONFC is an algorithm processing the latent characteristics of fully convolutiona
 |:--:|
 | Another examples of probabilistic similarity measures for boots.
 
-| <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/clusters.PNG" width="85%"> |
+| <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots2.png" width="85%"> |
 |:--:|
 | Examples of clusters (up to 10 objects shown per row only) obtained from ONFC (a), and several of uncategorized grains (b). Opaque minerals tend to reflect more light.
 
