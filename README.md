@@ -18,12 +18,6 @@ ONFC is an algorithm processing the latent characteristics of fully convolutiona
 |:--:|
 | Examples of probabilistic similarity measures of mineral grains identified by U-Net; average values are indicated above each object frame and presented in decreasing order.
 
-| <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots.png" width="85%"> |
-|:--:|
-| <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots2.png" width="85%"> |
-|:--:|
-| Another examples of probabilistic similarity measures for boots.
-
 | <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/clusters.PNG" width="85%"> |
 |:--:|
 | Examples of clusters (up to 10 objects shown per row only) obtained from ONFC (a), and several of uncategorized grains (b). Opaque minerals tend to reflect more light.
@@ -36,3 +30,8 @@ ONFC is an algorithm processing the latent characteristics of fully convolutiona
 |:--:|
 | Testing of ONFC on Caltech-UCSD Birds-200-2011 dataset (https://www.vision.caltech.edu/datasets/cub_200_2011/).
 
+| <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots.png" width="75%"> |
+|:--:|
+| <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots2.png" width="75%"> |
+|:--:|
+| Testing of the similarity algorithm on shoe dataset from Kaggle (https://www.kaggle.com/datasets/noobyogi0100/shoe-dataset).
