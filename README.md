@@ -18,6 +18,12 @@ ONFC is an algorithm processing the latent characteristics of fully convolutiona
 |:--:|
 | Examples of probabilistic similarity measures of mineral grains identified by U-Net; average values are indicated above each object frame and presented in decreasing order.
 
+| <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/boots.PNG" width="85%"> |
+|:--:|
+| <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/boots2.PNG" width="85%"> |
+|:--:|
+| Another examples of probabilistic similarity measures for boots.
+
 | <img src="https://raw.githubusercontent.com/cjuliani/tf-object-neuro-fuzzy-clustering/main/clusters.PNG" width="85%"> |
 |:--:|
 | Examples of clusters (up to 10 objects shown per row only) obtained from ONFC (a), and several of uncategorized grains (b). Opaque minerals tend to reflect more light.
