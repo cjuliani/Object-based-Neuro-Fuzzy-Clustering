@@ -33,5 +33,5 @@ ONFC is an algorithm processing the latent characteristics of fully convolutiona
 | <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots.png" width="65%"> |
 |:--:|
 | <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots2.png" width="65%"> |
-|:--:|
+|:---:|
 | Testing of the similarity algorithm on shoe dataset from Kaggle (https://www.kaggle.com/datasets/noobyogi0100/shoe-dataset).|
