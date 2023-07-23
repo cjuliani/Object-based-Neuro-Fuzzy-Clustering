@@ -2,8 +2,8 @@
 ![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg?style=plastic) <br>
 
 ### TLDR:
-- Object clustering framework using latent variables of trained fully convolutional neural networks.
-- The framework categorizes objects in an unsupervised manner for pattern discovery.
+- Object clustering framework using latent variables of trained fully convolutional neural networks (FCNs).
+- The framework categorizes objects from pitures in an unsupervised manner.
 
 ### Description:
 ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. We demonstrate its application to microscopic grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize. Clustering is carried out in 3 steps: (1) extract feature patterns per object from a trained FCN, (2) find the most similar patterns by fuzzy inference, and (3) decide on surrogate classes of the corresponding patterns given the similarity relations. The last step links the similarity analysis with clustering, which is refined by a weighting scheme involving the relevance of latent variables in classification.
@@ -34,4 +34,4 @@ ONFC is an algorithm processing the latent characteristics of fully convolutiona
 |:--:|
 | <img src="https://raw.githubusercontent.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering/main/boots2.png" width="65%"> |
 |:---:|
-| Testing of the similarity algorithm on shoe dataset from Kaggle (https://www.kaggle.com/datasets/noobyogi0100/shoe-dataset).|
+| Testing of the similarity algorithm on UT Zappos50K datasets ([https://www.kaggle.com/datasets/noobyogi0100/shoe-dataset](https://www.kaggle.com/datasets/aryashah2k/large-shoe-dataset-ut-zappos50k)https://www.kaggle.com/datasets/aryashah2k/large-shoe-dataset-ut-zappos50k).|
